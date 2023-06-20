@@ -1,16 +1,13 @@
 # bilgi_testi
 
-A new Flutter project.
+flutter ile yapılan bir quiz uygulaması.
 
-## Getting Started
+Herkese merhabalar bu projemin adı Bilgi Testi.
+Uygulamayı açtığınızda önceden hazırlanan bir soru ve altta doğru,yanlış butonlarını göreceksiniz.
+Sorunun doğru olduğunu düşünüyorsanız"😃" butonuna, Yanlış olduğunu düşünüyorsanız "😥" butonuna basacaksınız.
+En sonda verdiğiniz cevaplara göre puan alacaksınız.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/sefikt/quiz_uygulamasi/assets/88979070/d0f21c58-d1f9-425c-bb86-98fbaf83b008
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
